@@ -1,16 +1,38 @@
-### Hi there 👋
+<img src="readme-images/programer.png" align="right"/>
 
-<!--
-**AmandaWillrich/AmandaWillrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, there! 👋
 
-Here are some ideas to get you started:
+I'm Amanda, an enthusiast when it comes to programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/AmandaWillrich">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaWillrich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaWillrich&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<!-- ## Languages and Tools I currently use -->
+
+## Skills :nerd_face:
+
+<p align="center">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
+
+<!-- ![logo](readme-images/html5.png)
+![logo](readme-images/css3.png)
+![logo](readme-images/javascript.png)
+![logo](readme-images/python.png)
+![logo](readme-images/django.png)
+![logo](readme-images/database.png)
+![logo](readme-images/java.png)
+![logo](readme-images/eclipse.png)
+![logo](readme-images/github.png)
+![logo](readme-images/vscode.png) -->
+## Total Profile Views :detective: <br>
+<p align="center"> 
+    <img alingn="center" src="https://profile-counter.glitch.me/AmandaWillrich/count.svg" />
+</p>
+
+</p>
+
+- 🌱 Currently learning Python
