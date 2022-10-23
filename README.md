@@ -16,6 +16,8 @@ I'm Amanda, an enthusiast when it comes to programming.
 
 <p align="center">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
 <!-- ![logo](readme-images/html5.png)
@@ -28,7 +30,7 @@ I'm Amanda, an enthusiast when it comes to programming.
 ![logo](readme-images/eclipse.png)
 ![logo](readme-images/github.png)
 ![logo](readme-images/vscode.png) -->
-## Total Profile Views :detective: <br>
+## Profile Views :detective: <br>
 <p align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/AmandaWillrich/count.svg" />
 </p>
@@ -36,3 +38,4 @@ I'm Amanda, an enthusiast when it comes to programming.
 </p>
 
 - 🌱 Currently learning Python
+- 📚 Basic knowledge in HTML and CSS
