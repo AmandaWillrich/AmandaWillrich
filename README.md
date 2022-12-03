@@ -2,7 +2,7 @@
 
 # Hi, there! 👋
 
-I'm Amanda, an enthusiast when it comes to programming.
+I'm Amanda, an enthusiast when it comes to programming. <br>
 
 <div>
   <a href="https://github.com/AmandaWillrich">
