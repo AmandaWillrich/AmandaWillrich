@@ -6,8 +6,8 @@ I'm Amanda, an enthusiast when it comes to programming.
 
 <div>
   <a href="https://github.com/AmandaWillrich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaWillrich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaWillrich&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaWillrich&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaWillrich&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <!-- ## Languages and Tools I currently use -->
@@ -18,6 +18,8 @@ I'm Amanda, an enthusiast when it comes to programming.
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width=auto src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
+  <img align="center" alt="Rafa-Python" height="30" width=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 </p>
 
 <!-- ![logo](readme-images/html5.png)
@@ -37,5 +39,5 @@ I'm Amanda, an enthusiast when it comes to programming.
 
 </p>
 
-- 🌱 Currently learning Python
-- 📚 Basic knowledge in HTML and CSS
+- 🌱 Currently on the learning process
+- 📚 Getting ready to apply what I've learned so far to new projects
