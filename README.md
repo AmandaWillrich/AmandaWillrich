@@ -6,8 +6,8 @@ I'm Amanda, an enthusiast when it comes to programming.
 
 <div>
   <a href="https://github.com/AmandaWillrich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaWillrich&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaWillrich&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaWillrich&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaWillrich&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <!-- ## Languages and Tools I currently use -->
