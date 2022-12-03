@@ -2,9 +2,9 @@
 
 # Hi, there! 👋
 
-I'm Amanda, an enthusiast when it comes to programming. <br>
+I'm Amanda, an enthusiast when it comes to programming. 
 
-<div>
+<div><br>
   <a href="https://github.com/AmandaWillrich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaWillrich&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaWillrich&layout=compact&langs_count=7&theme=github_dark&hide=qml,batchfile"/>
