@@ -15,11 +15,13 @@ I'm Amanda, an enthusiast when it comes to programming.
 ## Skills :nerd_face:
 
 <p align="center">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width=auto src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-  <img align="center" alt="Rafa-Python" height="30" width=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+  <img align="center" alt="python" height="30" width=auto src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="html5" height="30" width=auto src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css3" height="30" width=auto src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="30" width=auto src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="django" height="30" width=auto src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
+  <img align="center" alt="vscode" height="30" width=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+  <img align="center" alt="database" height="30" width=auto src="readme-images/database.png">
 </p>
 
 <!-- ![logo](readme-images/html5.png)
