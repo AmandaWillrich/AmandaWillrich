@@ -22,6 +22,8 @@ I'm Amanda, an enthusiast when it comes to programming.
   <img align="center" alt="django" height="30" width=auto src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
   <img align="center" alt="vscode" height="30" width=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
   <img align="center" alt="database" height="30" width=auto src="readme-images/database.png">
+    <img align="center" alt="git-icon" height="30" width=auto src="readme-images/git-icon.png">
+
 </p>
 
 <!-- ![logo](readme-images/html5.png)
